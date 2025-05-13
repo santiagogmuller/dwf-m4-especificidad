@@ -1,0 +1,28 @@
+body div.contenedor {
+    width: 960px;
+    height:  605px;
+    max-width: 100%;
+    margin: 70px 260px;;
+    font-family: sans-serif
+  }
+html body div.contenedor h2.titulo {
+    width: 134px ;
+    height: 75px;
+    position: absolute;
+    top: 70px;
+    left: 260px;
+    font-family: 'Monsieur La Doulaise', sans-serif;
+    font-size: 20px;
+  }
+
+div p.texto {
+    font-family:  'Monsieur La Doulaise', sans-serif;
+    color: black;
+    font-size: 20px;
+    position: absolute; 
+    top:161px;
+    left: 260px;
+    height: 150px ; 
+    width:527px;
+  }
+  
